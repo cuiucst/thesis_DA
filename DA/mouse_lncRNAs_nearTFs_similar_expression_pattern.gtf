@@ -1,0 +1,14 @@
+chr3	GENCODE	gene	94368612	94377245	.	-	.	gene_id "ENSMUSG00000104669.1"; gene_type "pcg_antisense"; gene_name "Gm38411"; attribute ""; 
+chr3	GENCODE	transcript	94368612	94377245	.	-	.	gene_id "ENSMUSG00000104669.1"; transcript_id "ENSMUST00000197971.1"; gene_name "Gm38411"; gene_type "pcg_antisense"; transcript_type ""; endsup ""; attribute ""; 
+chr3	GENCODE	exon	94368612	94368848	.	-	.	gene_id "ENSMUSG00000104669.1"; transcript_id "ENSMUST00000197971.1"; gene_name "Gm38411"; gene_type "pcg_antisense"; transcript_type ""; attribute ""; 
+chr3	GENCODE	exon	94369829	94370416	.	-	.	gene_id "ENSMUSG00000104669.1"; transcript_id "ENSMUST00000197971.1"; gene_name "Gm38411"; gene_type "pcg_antisense"; transcript_type ""; attribute ""; 
+chr3	GENCODE	exon	94377130	94377245	.	-	.	gene_id "ENSMUSG00000104669.1"; transcript_id "ENSMUST00000197971.1"; gene_name "Gm38411"; gene_type "pcg_antisense"; transcript_type ""; attribute ""; 
+chr10	CAFE	gene	118187930	118210047	.	-	.	gene_id "Il22-AS-1"; gene_type "antisense"; gene_name "Il22-AS-1"; celltypes "T4Mem_IL7+23,T4Mem_IL7+23+1b"; 
+chr10	CAFE	transcript	118187930	118188267	.	-	.	gene_id "Il22-AS-1"; transcript_id "Il22-AS-1.1"; gene_name "Il22-AS-1"; gene_type "antisense"; transcript_type "lincRNA"; endsup "None"; celltypes "T4Mem_IL7+23,T4Mem_IL7+23+1b"; 
+chr10	CAFE	exon	118187930	118188116	.	-	.	gene_id "Il22-AS-1"; transcript_id "Il22-AS-1.1"; gene_name "Il22-AS-1"; gene_type "antisense"; transcript_type "lincRNA"; celltypes "T4Mem_IL7+23,T4Mem_IL7+23+1b"; 
+chr10	CAFE	exon	118188207	118188267	.	-	.	gene_id "Il22-AS-1"; transcript_id "Il22-AS-1.1"; gene_name "Il22-AS-1"; gene_type "antisense"; transcript_type "lincRNA"; celltypes "T4Mem_IL7+23,T4Mem_IL7+23+1b"; 
+chr10	CAFE	transcript	118187962	118210047	.	-	.	gene_id "Il22-AS-1"; transcript_id "Il22-AS-1.2"; gene_name "Il22-AS-1"; gene_type "antisense"; transcript_type "antisense"; endsup "None"; celltypes "T4Mem_IL7+23,T4Mem_IL7+23+1b"; 
+chr10	CAFE	exon	118187962	118188116	.	-	.	gene_id "Il22-AS-1"; transcript_id "Il22-AS-1.2"; gene_name "Il22-AS-1"; gene_type "antisense"; transcript_type "antisense"; celltypes "T4Mem_IL7+23,T4Mem_IL7+23+1b"; 
+chr10	CAFE	exon	118188207	118188404	.	-	.	gene_id "Il22-AS-1"; transcript_id "Il22-AS-1.2"; gene_name "Il22-AS-1"; gene_type "antisense"; transcript_type "antisense"; celltypes "T4Mem_IL7+23,T4Mem_IL7+23+1b"; 
+chr10	CAFE	exon	118189087	118189216	.	-	.	gene_id "Il22-AS-1"; transcript_id "Il22-AS-1.2"; gene_name "Il22-AS-1"; gene_type "antisense"; transcript_type "antisense"; celltypes "T4Mem_IL7+23,T4Mem_IL7+23+1b"; 
+chr10	CAFE	exon	118205515	118210047	.	-	.	gene_id "Il22-AS-1"; transcript_id "Il22-AS-1.2"; gene_name "Il22-AS-1"; gene_type "antisense"; transcript_type "antisense"; celltypes "T4Mem_IL7+23,T4Mem_IL7+23+1b"; 
